@@ -57,3 +57,19 @@ feito em python.'''
 
 print("\n")
 print(p)
+
+#Desmembrando uma string
+
+print("\n")
+for x in "banana":
+    print(x)
+
+#Testando se algo está na string
+
+print("\n")
+pp = "O sol está nascendo no horizonte"
+print("horizonte" in pp)
+
+print("\n")
+if "sol" in pp:
+    print("'Sol' está presente")
