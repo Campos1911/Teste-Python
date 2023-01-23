@@ -49,3 +49,11 @@ rrr = 3j #Complexo
 print(type(r))
 print(type(rr))
 print(type(rrr))
+
+#Strings de várias linhas
+
+p = '''Ola, isso aqui é um teste
+feito em python.'''
+
+print("\n")
+print(p)
